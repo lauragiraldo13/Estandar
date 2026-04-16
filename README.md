@@ -5,7 +5,7 @@ El consumo excesivo de agua no solo afecta la naturaleza, sino que también impa
 Respecto a lo anterior se puede denotar una falta de conciencia en las personas por lo que se hace necesario abordar a las futuras generaciones, es decir a los niños; y proporcionarles herramientas lúdicas que ayuden a educarlos y sensibilizarlos sobre el uso responsable del agua con el fin de que cumplan un rol como agentes del cambio.
 
 OBJETIVO GENERAL 
-
+4
 Desarrollar un juego lúdico y educativo que permita a los niños mayores de 5 años aprender a optimizar el consumo del agua en su hogar para reducir así el impacto ambiental que el consumo excesivo de este recurso genera.
 
 OBJETIVOS ESPECÍFICOS
